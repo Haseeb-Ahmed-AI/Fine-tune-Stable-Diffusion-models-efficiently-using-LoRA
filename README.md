@@ -1,4 +1,4 @@
-# Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning
+# Low-rank Adaptation for Fast Text-to-Image  Diffusion Fine-tuning
 
 <!-- #region -->
 <p align="center">
